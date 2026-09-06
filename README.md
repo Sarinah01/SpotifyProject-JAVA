@@ -8,7 +8,7 @@
 
 ## **Description:**
 
-This is a **console-based music application** inspired by Spotify, built in Python. It supports **user authentication**, **admin controls**, and all basic music player functionalities such as **play, pause, next, previous, shuffle**, and more. Users can **sign up, log in, and manage playlists**, while admins can **manage songs and users**.
+This is a **console-based music application** inspired by Spotify, built in Java. It supports **user authentication**, **admin controls**, and all basic music player functionalities such as **play, pause, next, previous, shuffle**, and more. Users can **sign up, log in, and manage playlists**, while admins can **manage songs and users**.
 
 ---
 
